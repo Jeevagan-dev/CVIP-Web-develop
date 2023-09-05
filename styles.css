@@ -101,6 +101,7 @@ body{
     width: 30px;
     object-fit: contain;
     padding-right: 45px;
+    overflow:hidden;
 }
 .navi{
     position: fixed;
