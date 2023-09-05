@@ -58,11 +58,11 @@ body{
     padding-bottom: 0.3rem;
 }
 .discrip{
-    width: 40rem;
+    width: 35rem;
     line-height: 1.3;
     padding-top: 1rem;
     font-size: 0.8rem;
-    max-width: 340px;
+    max-width: 320px;
     height: 180px;
 }
 
